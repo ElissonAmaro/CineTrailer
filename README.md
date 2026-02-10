@@ -39,8 +39,7 @@
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/ElissonAmaro/apiFilmes.git
-cd apiFilmes
+https://github.com/ElissonAmaro/CineTrailer.git
 ```
 
 2. **Instale as dependências**
