@@ -39,7 +39,7 @@
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/apiFilmes.git
+git clone https://github.com/ElissonAmaro/apiFilmes.git
 cd apiFilmes
 ```
 
